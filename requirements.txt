@@ -1,0 +1,12 @@
+streamlit
+joblib
+mysql-connector-python
+nltk
+speechrecognition
+pandas
+numpy
+scikit-learn
+plotly
+librosa
+soundfile
+pickle-mixin
