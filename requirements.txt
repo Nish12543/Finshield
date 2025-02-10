@@ -10,3 +10,4 @@ plotly
 librosa
 soundfile
 pickle-mixin
+dotenv
