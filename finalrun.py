@@ -140,10 +140,10 @@ NUMBER_WORDS = {
 
 # Database configuration
 DB_CONFIG = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': 'code',
-    'database': 'dbms'
+    'host': 'hostname',
+    'user': 'user',
+    'password': 'password',
+    'database': 'finshield'
 }
 
 
