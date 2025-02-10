@@ -31,7 +31,6 @@ Welcome to **FinShield**, a next-generation secure banking interface that levera
 
 ## 🏗️ Tech Stack
 - **Frontend**: Streamlit (Python-based interactive UI)
-- **Backend**: Flask/FastAPI (for handling API requests and authentication logic)
 - **Database**: MySQL (secure storage of user and transaction data)
 - **AI/ML**: Deep learning models for voice recognition and fraud detection
 - **NLP**: Natural Language Processing for voice-based user queries
