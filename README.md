@@ -9,6 +9,10 @@ Welcome to **FinShield**, a next-generation secure banking interface that levera
 - Users can securely log in using their **unique voice signature**.
 - Eliminates the need for traditional passwords, reducing the risk of credential theft.
 
+### 🗣️ Voice Query for User Information (NLP-Powered)
+- Users can query their account details using voice commands.
+- NLP-based system retrieves and presents relevant user information seamlessly.
+
 ### 🔍 Fraud and Threat Detection for Customers
 - AI-powered algorithms detect unusual transaction patterns.
 - Alerts users and administrators in real-time to prevent fraud.
@@ -27,8 +31,10 @@ Welcome to **FinShield**, a next-generation secure banking interface that levera
 
 ## 🏗️ Tech Stack
 - **Frontend**: Streamlit (Python-based interactive UI)
+- **Backend**: Flask/FastAPI (for handling API requests and authentication logic)
 - **Database**: MySQL (secure storage of user and transaction data)
 - **AI/ML**: Deep learning models for voice recognition and fraud detection
+- **NLP**: Natural Language Processing for voice-based user queries
 
 ## 🔧 Installation & Setup
 
